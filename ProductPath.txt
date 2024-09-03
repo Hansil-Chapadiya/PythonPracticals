@@ -1,0 +1,14 @@
+D:\MHA\Python\Image\HM1.png
+D:\MHA\Python\Image\HM2.png
+D:\MHA\Python\Image\HM3.png
+D:\MHA\Python\Image\HM4.png
+D:\MHA\Python\Image\HM5.png
+D:\MHA\Python\Image\HM6.png
+D:\MHA\Python\Image\VEGETABLES\V1.png
+D:\MHA\Python\Image\VEGETABLES\V2.png
+D:\MHA\Python\Image\VEGETABLES\V3.png
+D:\MHA\Python\Image\VEGETABLES\V4.png
+D:\MHA\Python\Image\VEGETABLES\V5.png
+D:\MHA\Python\Image\VEGETABLES\V6.png
+D:\MHA\Python\com.png
+D:\MHA\Python\wash.png

@@ -1,0 +1,18 @@
+from HA58_Home import *
+def bill():
+    clear_frame()
+    Label(frame1, text="Name  : ", font=30).grid(row=0,column=0, pady=20)
+    Label(frame1, text="Ph no : ",font=30).grid(row=1,column=0, pady=20)
+    name = StringVar()
+    Phone = IntVar()
+    nameen = Entry(frame1, textvariable=name, font="TimesNewroman 18 bold")
+    nameen.grid(row=0,column=1,pady=20)
+    Phoneen= Entry(frame1,textvariable=Phone, font="Timesnewroman 18 bold", bg="black" , fg="white")
+    Phoneen.grid(row=1,column=1,pady=20)
+    Label(frame1, text="Sr.No",font=40, bg="black",fg="white").grid(row=5, column=0, padx=3,pady=30, ipadx=30)
+    Label(frame1,text="Product name",bg="Black",font=40,fg="White").grid(row=5,column=1, padx=3,pady=30, ipadx=30)
+    Label(frame1, text="Quantity",font=40, bg="black",fg="white").grid(row=5,column=5, padx=3,pady=30, ipadx=30)
+    Label(frame1, text="Price",font=40, bg="black",fg="white").grid(row=5,column=6, padx=30,pady=30, ipadx=30)
+    l()
+    but0k =Button(frame1,text=" Ok ",command=c, fg="Cyan", bg="black",font="TimesNewRoman 20 bold" )
+    but0k.grid(row=20,column=0,ipadx=30, pady=30)

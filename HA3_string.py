@@ -1,0 +1,11 @@
+a = '''hansil Chapadiya Ha. Chapadiya'''
+# print(type(a))
+#c = a.endswith("Chapadiya")
+#print(c)
+#print(a.count("h"))
+#print(a.replace("Chapadiya","Chapadia"))
+#print(a.find("Ha"))
+#print(a.capitalize())
+#f = slice(4)
+#print(a[f])
+print(len(a))

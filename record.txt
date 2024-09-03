@@ -1,0 +1,10 @@
+Name      Surname    Roll no     Attendnce
+Hansil -- Chapadiya -- Ito10 -- Yes
+Hansil -- Chapadiya -- 15 -- Yes
+Hansil -- Chapadiya -- 15 -- Yes
+Hansil -- Chapadiya -- 15 -- Yes
+Hansil -- Chapadiya -- 15 -- Yes
+shailesh -- Chapadiya -- 15 -- Yes
+Hansil -- Chapadiya -- sddda -- SADS
+Hansil -- Chapadiya -- IT015 -- Yes
+Hansil -- Chapadiya -- 15 -- present
